@@ -1,0 +1,35 @@
+.authlessnavcont {
+    width: 100vw;
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.authlessheader {
+    font-weight: 700;
+    font-size: 25px;
+    margin-left: 70px;
+    cursor: pointer;
+
+}
+
+.authlessnavbtn {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.authlessheader>span {
+    color: blue;
+}
+
+.authlessnavsup {
+    margin-right: 70px;
+    cursor: pointer;
+}
+
+.authlessnavsup>i {
+    margin-right: 10px;
+}
